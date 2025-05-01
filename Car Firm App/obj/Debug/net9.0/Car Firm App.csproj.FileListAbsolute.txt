@@ -1,0 +1,14 @@
+D:\School\Object Oriented Design and Problem Solving\Car Firm App\bin\Debug\net9.0\Car Firm App.exe
+D:\School\Object Oriented Design and Problem Solving\Car Firm App\bin\Debug\net9.0\Car Firm App.deps.json
+D:\School\Object Oriented Design and Problem Solving\Car Firm App\bin\Debug\net9.0\Car Firm App.runtimeconfig.json
+D:\School\Object Oriented Design and Problem Solving\Car Firm App\bin\Debug\net9.0\Car Firm App.dll
+D:\School\Object Oriented Design and Problem Solving\Car Firm App\bin\Debug\net9.0\Car Firm App.pdb
+D:\School\Object Oriented Design and Problem Solving\Car Firm App\obj\Debug\net9.0\Car Firm App.GeneratedMSBuildEditorConfig.editorconfig
+D:\School\Object Oriented Design and Problem Solving\Car Firm App\obj\Debug\net9.0\Car Firm App.AssemblyInfoInputs.cache
+D:\School\Object Oriented Design and Problem Solving\Car Firm App\obj\Debug\net9.0\Car Firm App.AssemblyInfo.cs
+D:\School\Object Oriented Design and Problem Solving\Car Firm App\obj\Debug\net9.0\Car Firm App.csproj.CoreCompileInputs.cache
+D:\School\Object Oriented Design and Problem Solving\Car Firm App\obj\Debug\net9.0\Car Firm App.dll
+D:\School\Object Oriented Design and Problem Solving\Car Firm App\obj\Debug\net9.0\refint\Car Firm App.dll
+D:\School\Object Oriented Design and Problem Solving\Car Firm App\obj\Debug\net9.0\Car Firm App.pdb
+D:\School\Object Oriented Design and Problem Solving\Car Firm App\obj\Debug\net9.0\Car Firm App.genruntimeconfig.cache
+D:\School\Object Oriented Design and Problem Solving\Car Firm App\obj\Debug\net9.0\ref\Car Firm App.dll
