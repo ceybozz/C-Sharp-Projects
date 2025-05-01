@@ -13,8 +13,6 @@ The **Car Firm App** simulates a basic company model using object-oriented princ
 
 This project is designed to demonstrate object-oriented design, encapsulation, and class relationships in C#.
 
----
-
 ## 🧩 Features
 
 - Add and structure employees across different departments.
@@ -22,13 +20,18 @@ This project is designed to demonstrate object-oriented design, encapsulation, a
 - Clear `ToString()` output for both employees and the firm.
 - Clean codebase with proper documentation and comments.
 
----
-
 ## 🗂️ Project Structure
 
-CarFirmApp/ │ ├── Program.cs # Application entry point ├── Firm.cs # Represents the firm ├── Department.cs # Represents a department in the firm ├── Employee.cs # Represents an employee ├── CarFirmApp.csproj # Project configuration └── README.md # Project documentation
-
----
+```
+CarFirmApp/
+│
+├── Program.cs           # Application entry point
+├── Firm.cs              # Represents the firm
+├── Department.cs        # Represents a department in the firm
+├── Employee.cs          # Represents an employee
+├── CarFirmApp.csproj    # Project configuration (optional)
+└── README.md            # Project documentation
+```
 
 ## 🚀 How to Run
 
@@ -38,13 +41,17 @@ CarFirmApp/ │ ├── Program.cs # Application entry point ├── Firm.cs
 
 > .NET SDK 6.0+ is recommended.
 
----
-
 ## ✅ Example Output
 
-Firm Name: QC, Address: Kungsgatan 10, URL: qualitycars.se, Org number: 9900-4565 Total number of employees in firm: 5 Employee: Kalle has ID: 4 and works in Sales Employee: Rohan has ID: 2 and works in Mechanic Employee: Mohammed has ID: 3 and works in Sales Employee: Abraham has ID: 1 and works in CEO Employee: Bertil has ID: 5 and works in Mechanic
-
----
+```
+Firm Name: QC, Address: Kungsgatan 10, URL: qualitycars.se, Org number: 9900-4565
+Total number of employees in firm: 5
+Employee: Kalle has ID: 4 and works in Sales
+Employee: Rohan has ID: 2 and works in Mechanic
+Employee: Mohammed has ID: 3 and works in Sales
+Employee: Abraham has ID: 1 and works in CEO
+Employee: Bertil has ID: 5 and works in Mechanic
+```
 
 ## 📚 Purpose
 
@@ -54,8 +61,6 @@ This application is ideal for:
 - Demonstrating class interactions.
 - Practice with class structure and clean coding.
 
----
-
 ## 🛠️ Future Improvements
 
 - Add employee search by ID or name.
@@ -63,9 +68,6 @@ This application is ideal for:
 - Save/load data to/from files (JSON or XML).
 - GUI or WebAPI frontend.
 
----
-
 ## 👨‍💻 Author
 
-Created by [Your Name]. For questions, feel free to reach out.
-
+Created by Ceyhun Bozkurt. For questions, feel free to reach out.
