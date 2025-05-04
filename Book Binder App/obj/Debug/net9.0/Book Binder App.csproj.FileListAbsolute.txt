@@ -1,0 +1,14 @@
+D:\School\Fundamentals of Programming C#\Book Binder App\obj\Debug\net9.0\Book Binder App.GeneratedMSBuildEditorConfig.editorconfig
+D:\School\Fundamentals of Programming C#\Book Binder App\obj\Debug\net9.0\Book Binder App.AssemblyInfoInputs.cache
+D:\School\Fundamentals of Programming C#\Book Binder App\obj\Debug\net9.0\Book Binder App.AssemblyInfo.cs
+D:\School\Fundamentals of Programming C#\Book Binder App\obj\Debug\net9.0\Book Binder App.csproj.CoreCompileInputs.cache
+D:\School\Fundamentals of Programming C#\Book Binder App\bin\Debug\net9.0\Book Binder App.exe
+D:\School\Fundamentals of Programming C#\Book Binder App\bin\Debug\net9.0\Book Binder App.deps.json
+D:\School\Fundamentals of Programming C#\Book Binder App\bin\Debug\net9.0\Book Binder App.runtimeconfig.json
+D:\School\Fundamentals of Programming C#\Book Binder App\bin\Debug\net9.0\Book Binder App.dll
+D:\School\Fundamentals of Programming C#\Book Binder App\bin\Debug\net9.0\Book Binder App.pdb
+D:\School\Fundamentals of Programming C#\Book Binder App\obj\Debug\net9.0\Book Binder App.dll
+D:\School\Fundamentals of Programming C#\Book Binder App\obj\Debug\net9.0\refint\Book Binder App.dll
+D:\School\Fundamentals of Programming C#\Book Binder App\obj\Debug\net9.0\Book Binder App.pdb
+D:\School\Fundamentals of Programming C#\Book Binder App\obj\Debug\net9.0\Book Binder App.genruntimeconfig.cache
+D:\School\Fundamentals of Programming C#\Book Binder App\obj\Debug\net9.0\ref\Book Binder App.dll
