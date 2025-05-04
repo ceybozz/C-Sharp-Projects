@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "School Student Manager App/1.0.0": {
+        "runtime": {
+          "School Student Manager App.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "School Student Manager App/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

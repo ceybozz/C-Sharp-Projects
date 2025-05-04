@@ -1,0 +1,14 @@
+D:\School\Fundamentals of Programming C#\School Student Manager App\bin\Debug\net9.0\School Student Manager App.exe
+D:\School\Fundamentals of Programming C#\School Student Manager App\bin\Debug\net9.0\School Student Manager App.deps.json
+D:\School\Fundamentals of Programming C#\School Student Manager App\bin\Debug\net9.0\School Student Manager App.runtimeconfig.json
+D:\School\Fundamentals of Programming C#\School Student Manager App\bin\Debug\net9.0\School Student Manager App.dll
+D:\School\Fundamentals of Programming C#\School Student Manager App\bin\Debug\net9.0\School Student Manager App.pdb
+D:\School\Fundamentals of Programming C#\School Student Manager App\obj\Debug\net9.0\School Student Manager App.GeneratedMSBuildEditorConfig.editorconfig
+D:\School\Fundamentals of Programming C#\School Student Manager App\obj\Debug\net9.0\School Student Manager App.AssemblyInfoInputs.cache
+D:\School\Fundamentals of Programming C#\School Student Manager App\obj\Debug\net9.0\School Student Manager App.AssemblyInfo.cs
+D:\School\Fundamentals of Programming C#\School Student Manager App\obj\Debug\net9.0\School Student Manager App.csproj.CoreCompileInputs.cache
+D:\School\Fundamentals of Programming C#\School Student Manager App\obj\Debug\net9.0\School Student Manager App.dll
+D:\School\Fundamentals of Programming C#\School Student Manager App\obj\Debug\net9.0\refint\School Student Manager App.dll
+D:\School\Fundamentals of Programming C#\School Student Manager App\obj\Debug\net9.0\School Student Manager App.pdb
+D:\School\Fundamentals of Programming C#\School Student Manager App\obj\Debug\net9.0\School Student Manager App.genruntimeconfig.cache
+D:\School\Fundamentals of Programming C#\School Student Manager App\obj\Debug\net9.0\ref\School Student Manager App.dll
