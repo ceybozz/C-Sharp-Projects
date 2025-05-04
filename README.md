@@ -86,5 +86,5 @@ dotnet run
 
 ## 👨‍💻 Author
 
-Created by [Your Name].  
+Created by Ceyhun Bozkurt.  
 Feel free to fork, contribute, or open an issue with feedback!
