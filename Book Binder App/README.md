@@ -85,5 +85,5 @@ Chapter 3: I See Light
 
 ## 👨‍💻 Author
 
-Created by [Your Name].  
+Created by Ceyhun Bozkurt.  
 Feel free to contribute, fork, or provide feedback!
